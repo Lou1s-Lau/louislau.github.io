@@ -8,8 +8,7 @@ I am a Ph.D. student at ...
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+My research lies at the intersection of AI-driven drug discovery and computational biology. I develop scalable, data-centric ML methods for large-scale virtual screening and structure-based prediction, aiming for reliable protein–ligand modeling.
   
 ## Education
 - **[Dec. 2025]** B.A. in Computer Science, University of Minnesota
