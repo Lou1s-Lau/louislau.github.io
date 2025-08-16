@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a senior B.S. student in Computer Science at the University of Minnesota (graduating Dec 2025). Since 2025 I have worked with Prof. Yanjun Li at the University of Florida, co-developing xxx—an automated, reproducible pipeline and tooling for large-scale experiments on HPC clusters. I will start my Ph.D. in [Department/Program] at [University] in [Spring 2026] ([Advisor: xxx]).
 
 ## Research Interests
 
