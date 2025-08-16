@@ -11,7 +11,7 @@ I am a Ph.D. student at ...
 - **Computer Vision:** image recognition, image generation, video captioning
 - **Machine Learning:** meta-learning, incremental learning, transfer learning
   
-## News
+## Education
 - B.A. in Computer Science, University of Minnesota
 
   
