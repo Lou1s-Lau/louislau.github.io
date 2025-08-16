@@ -12,7 +12,6 @@ I am a Ph.D. student at ...
 - **Machine Learning:** meta-learning, incremental learning, transfer learning
   
 ## Education
-- B.A. in Computer Science, University of Minnesota (2025)
 - **[Dec. 2025]** B.A. in Computer Science, University of Minnesota
 
 ## News
