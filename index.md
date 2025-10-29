@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a senior student in Computer Science at the University of Minnesota, Twin Cities (graduating Dec 2025). Since Feb. 2025 I have worked with Prof. Yanjun Li and Prof. Seabra Gustavo at the University of Florida, co-developing gScreening—an automated, reproducible pipeline and tooling for large-scale experiments on HPC clusters. I will start my Ph.D. in Computer Science at University of Illinois Chicago in Spring 2026 ([Advisor: Hao Chen]).
+I am a senior student in Computer Science at the University of Minnesota, Twin Cities (graduating Dec 2025). Since Feb. 2025 I have worked with Prof. Yanjun Li and Prof. Seabra Gustavo at the University of Florida, co-developing gScreening—an automated, reproducible pipeline and tooling for large-scale experiments on HPC clusters. I will start my Ph.D. in Computer Science at University of Illinois Chicago in Spring 2026 ([Advisor: Prof. Hao Chen]).
 
 ## Research Interests
 
