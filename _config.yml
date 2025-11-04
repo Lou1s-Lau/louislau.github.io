@@ -1,8 +1,8 @@
 # Basic Information 
 title: Yusen Liu
-position: Senoir Student, Upcoming Ph.D. Student
-affiliation: University of Minnesota, Twin Cities, University of Illinois Chicago
-email: liu03229@umn.edu
+position: Upcoming Ph.D. Student
+affiliation: University of Illinois Chicago
+email: yliu2034@uic.edu
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -13,7 +13,7 @@ canonical: https://lou1s-lau.github.io/louislau.github.io/
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com/
-cv_link: assets/files/curriculum_vitae.pdf
+# cv_link: assets/files/curriculum_vitae.pdf
 github_link: https://github.com/Lou1s-Lau/
 linkedin: https://www.linkedin.com/in/yusen-liu-41a11734a/
 
