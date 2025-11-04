@@ -11,7 +11,7 @@ I am a senior student in Computer Science at the University of Minnesota, Twin C
 My research lies at the intersection of AI-driven drug discovery and computational biology. I develop scalable, data-centric ML methods for large-scale virtual screening and structure-based prediction, aiming for reliable protein–ligand modeling.
   
 ## Education
-- **[Dec. 2030]** Ph.D. in Computer Science, University of Illinois Chicago
+- **[Dec. 2030(Expected)]** Ph.D. in Computer Science, University of Illinois Chicago
 - **[Dec. 2025]** B.A. in Computer Science, University of Minnesota
 
 ## News
