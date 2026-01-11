@@ -4,11 +4,13 @@ layout: homepage
 
 ## About Me
 
-I am a senior student in Computer Science at the University of Minnesota, Twin Cities (graduating Dec 2025). Since Feb. 2025 I have worked with Prof. Yanjun Li and Prof. Seabra Gustavo at the University of Florida, co-developing gScreening—an automated, reproducible pipeline and tooling for large-scale experiments on HPC clusters. I will start my Ph.D. in Computer Science at University of Illinois Chicago in Spring 2026 ([Advisor: Prof. Hao Chen]).
+I am a first-year Ph.D. student in Computer Science at the University of Illinois Chicago, advised by [Prof. Hao Chen](https://haochenhc.github.io/). I graduated from the University of Minnesota, Twin Cities in Dec. 2025. Previously, I worked with Prof. Yanjun Li and Prof. Gustavo Seabra at the University of Florida, co-developing gScreening—an automated, reproducible pipeline for large-scale virtual screening experiments on HPC clusters.
 
 ## Research Interests
 
-My research lies at the intersection of AI-driven drug discovery and computational biology. I develop scalable, data-centric ML methods for large-scale virtual screening and structure-based prediction, aiming for reliable protein–ligand modeling.
+My current research focuses on single-cell spatial genomics, developing computational methods to analyze and integrate spatial transcriptomics data.
+
+Previously, I worked on AI-driven drug discovery, building scalable ML pipelines for large-scale virtual screening and structure-based protein–ligand modeling.
   
 ## Education
 - **[Dec. 2030(Expected)]** Ph.D. in Computer Science, University of Illinois Chicago
@@ -16,7 +18,8 @@ My research lies at the intersection of AI-driven drug discovery and computation
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
+- **[Jan. 2026]** Started my Ph.D. at UIC!
+- **[Dec. 2025]** Graduated from the University of Minnesota, Twin Cities.
 
 
 {% include_relative _includes/publications.md %}
