@@ -8,7 +8,7 @@ I am a first-year Ph.D. student in Computer Science at the University of Illinoi
 
 ## Research Interests
 
-My current research focuses on single-cell spatial genomics, developing computational methods to analyze and integrate spatial transcriptomics data.
+My current research focuses single-cell and spatial omics data.
 
 Previously, I worked on AI-driven drug discovery, building scalable ML pipelines for large-scale virtual screening and structure-based protein–ligand modeling.
   
