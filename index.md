@@ -4,13 +4,12 @@ layout: homepage
 
 ## About Me
 
-I am a first-year Ph.D. student in Computer Science at the University of Illinois Chicago, advised by [Prof. Hao Chen](https://haochenhc.github.io/). I graduated from the University of Minnesota, Twin Cities in Dec. 2025. Previously, I worked with Prof. Yanjun Li and Prof. Gustavo Seabra at the University of Florida, co-developing gScreening—an automated, reproducible pipeline for large-scale virtual screening experiments on HPC clusters.
+I am a first-year Ph.D. student in Computer Science at the University of Illinois Chicago, advised by Prof. Hao Chen. I received my B.A. in Computer Science from the University of Minnesota, Twin Cities in Dec. 2025. Previously, I worked with Prof. Yanjun Li and Prof. Gustavo Seabra at the University of Florida on AI-driven drug discovery.
 
 ## Research Interests
 
-My current research focuses single-cell and spatial omics data.
-
-Previously, I worked on AI-driven drug discovery, building scalable ML pipelines for large-scale virtual screening and structure-based protein–ligand modeling.
+My research lies at the intersection of machine learning and computational biology. I currently focus on developing deep learning methods for single-cell and spatial omics data, aiming to uncover the dynamics of gene regulation in cellular fates and the mechanisms of cellular responses to perturbations, with implications for drug discovery and disease modeling.
+Previously, I worked on AI-driven drug discovery, building scalable, GPU-accelerated ML pipelines for large-scale virtual screening and structure-based protein–ligand modeling.
   
 ## Education
 - **[Dec. 2030(Expected)]** Ph.D. in Computer Science, University of Illinois Chicago
